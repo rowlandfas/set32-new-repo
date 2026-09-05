@@ -1,1 +1,1 @@
-# set32-new-repo version 1.0
+# set32-new-repo version 2.0
